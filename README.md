@@ -145,4 +145,3 @@ while True:
     else:
         print("Pilih menu yang tersedia")
 ```# UAS
-
