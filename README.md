@@ -53,13 +53,13 @@ menyebutkan kata-kunci, karena tidak boleh ada duplikasi.
         
 # Hasil input
 
-while True:
-    header="PROGRAM INPUT NILAI MAHASISWA"
-    header2=("MENU UTAMA")
-    print(header.center(97,"="))
-    print()
-    print(header2.center(97,"_"))
-    c = input("\n(L)ihat, (T)ambah, (U)bah), (H)apus, (C)ari, (K)eluar: ")
+    while True:
+        header="PROGRAM INPUT NILAI MAHASISWA"
+        header2=("MENU UTAMA")
+        print(header.center(97,"="))
+        print()
+        print(header2.center(97,"_"))
+        c = input("\n(L)ihat, (T)ambah, (U)bah), (H)apus, (C)ari, (K)eluar: ")
 
     if c.lower() == 't':
         print("Tambah Data")
