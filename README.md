@@ -25,7 +25,7 @@ menyebutkan kata-kunci, karena tidak boleh ada duplikasi.
 ## tambah data
 ![Gambar 6](screenshoot/TData.png)
 ## ubah data
-![Gambar 7](screebshoot/UData.png)
+![Gambar 7](screenshoot/UData.png)
 ## search data
 ![Gambar 8](screenshoot/CData.png)
 ##  delete data
