@@ -158,3 +158,5 @@ menyebutkan kata-kunci, karena tidak boleh ada duplikasi.
     else:
         print("Pilih menu yang tersedia")
 ```# UAS
+
+Sekian Terimakasih :)
