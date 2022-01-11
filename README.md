@@ -22,7 +22,6 @@ Ini adalah untuk menyimpan data yang nantinya akan dimasukkan oleh user.
 Dengan menyebutkan kata kunci yang kita buat saat mendeklarasikan program kita dapat
 mengubah urutan penyalinan argumen. Akan tetapi Anda harus berhati-hati ketika
 menyebutkan kata-kunci, karena tidak boleh ada duplikasi.
-
 elif c.lower() == 'c':
         print("Cari Data[case-sensitive]")
         nama = input("Masukkan Nama : ")
@@ -62,6 +61,7 @@ elif c.lower() == 'c':
 
     elif c. lower() == 'k':
         break
+
 #### Hasil Input
 while True:
     header="PROGRAM INPUT NILAI MAHASISWA"
