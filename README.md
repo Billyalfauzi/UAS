@@ -23,15 +23,15 @@ Dengan menyebutkan kata kunci yang kita buat saat mendeklarasikan program kita d
 mengubah urutan penyalinan argumen. Akan tetapi Anda harus berhati-hati ketika
 menyebutkan kata-kunci, karena tidak boleh ada duplikasi.
 ## tambah data
-![img]screenshoot/TData.png
+![Gambar 6](screenshoot/TData.png)
 ## ubah data
-![img]screebshoot/UData.png
+![Gambar 7](screebshoot/UData.png)
 ## search data
-![img]screenshoot/CData.png
+![Gambar 8](screenshoot/CData.png)
 ##  delete data
-![img]screenshoot/HData.png
+![Gambar 9](screenshoot/HData.png)
 ## out data
-![img]screenshoot/KData.png
+![Gambar 10](screenshoot/KData.png)
 # Untuk menambahkan baris pada tabel. untuk menampilkan karakter bisa ditambahkan tanda (' ') dan untuk menampilkan hasil dari input tidak menggunakan tanda petik. dan untuk perhitungan nilai akhir menggunakan operator aritmatika perkalian dan penjumlahan.
 
     elif c.lower() == 'c':
