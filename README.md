@@ -159,4 +159,4 @@ menyebutkan kata-kunci, karena tidak boleh ada duplikasi.
         print("Pilih menu yang tersedia")
 ```# UAS
 
-Sekian Terimakasih :)
+Sekian Terimakasih Dan Panjang Umur Untuk Semua Hal-hal Baik :)
