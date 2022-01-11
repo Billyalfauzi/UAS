@@ -22,7 +22,16 @@ Ini adalah untuk menyimpan data yang nantinya akan dimasukkan oleh user.
 Dengan menyebutkan kata kunci yang kita buat saat mendeklarasikan program kita dapat
 mengubah urutan penyalinan argumen. Akan tetapi Anda harus berhati-hati ketika
 menyebutkan kata-kunci, karena tidak boleh ada duplikasi.
-
+## tambah data
+![img]screenshoot/TData.png
+## ubah data
+![img]screebshoot/UData.png
+## search data
+![img]screenshoot/CData.png
+##  delete data
+![img]screenshoot/HData.png
+## out data
+![img]screenshoot/KData.png
 # Untuk menambahkan baris pada tabel. untuk menampilkan karakter bisa ditambahkan tanda (' ') dan untuk menampilkan hasil dari input tidak menggunakan tanda petik. dan untuk perhitungan nilai akhir menggunakan operator aritmatika perkalian dan penjumlahan.
 
     elif c.lower() == 'c':
