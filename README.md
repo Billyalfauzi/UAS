@@ -8,15 +8,15 @@ Ujian Akhir semester B.pemrograman
 ### Skrinsut view Nilai
 ![Gambar 3](screenshoot/s2.png)
 
-# Input data yang meminta pengguna memasukkan data
+## Input data yang meminta pengguna memasukkan data
 Jadi ini adalah cara mengambil data dari user,
 karena disini saya mempunyai 4 buah data yang pertama ada string float Integer lalu ada Boolean.
-# Tampilan Input Data
+## Tampilan Input Data
 ![Gambar 4](screenshoot/ss3.png)
 
-# Main.py berisi program utama atau menu pilihan yang memanggil semua menu yang ada
+## Main.py berisi program utama atau menu pilihan yang memanggil semua menu yang ada
 Ini adalah untuk menyimpan data yang nantinya akan dimasukkan oleh user.
-#### Tampilan Main.py
+## Tampilan Main.py
 ![Gambar 5](screenshoot/ss4.png)
 
 Dengan menyebutkan kata kunci yang kita buat saat mendeklarasikan program kita dapat
@@ -32,7 +32,7 @@ menyebutkan kata-kunci, karena tidak boleh ada duplikasi.
 ![Gambar 9](screenshoot/HData.png)
 ## out data
 ![Gambar 10](screenshoot/KData.png)
-# Untuk menambahkan baris pada tabel. untuk menampilkan karakter bisa ditambahkan tanda (' ') dan untuk menampilkan hasil dari input tidak menggunakan tanda petik. dan untuk perhitungan nilai akhir menggunakan operator aritmatika perkalian dan penjumlahan.
+## Untuk menambahkan baris pada tabel. untuk menampilkan karakter bisa ditambahkan tanda (' ') dan untuk menampilkan hasil dari input tidak menggunakan tanda petik. dan untuk perhitungan nilai akhir menggunakan operator aritmatika perkalian dan penjumlahan.
 
     elif c.lower() == 'c':
         print("Cari Data[case-sensitive]")
