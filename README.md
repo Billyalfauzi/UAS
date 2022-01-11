@@ -25,6 +25,20 @@ menyebutkan kata-kunci, karena tidak boleh ada duplikasi.
 
 # Untuk menambahkan baris pada tabel. untuk menampilkan karakter bisa ditambahkan tanda (' ') dan untuk menampilkan hasil dari input tidak menggunakan tanda petik. dan untuk perhitungan nilai akhir menggunakan operator aritmatika perkalian dan penjumlahan.
 
+    elif c.lower() == 'c':
+        print("Cari Data[case-sensitive]")
+        nama = input("Masukkan Nama : ")
+        if nama in x.keys():
+            print("="*73)
+            print("|                             Daftar Mahasiswa                          |")
+            print("="*73)
+            print("| Nama            |       NIM       |  UTS  |  UAS  |  Tugas  |  Akhir  |")
+            print("="*73)
+            print("| {0:15s} | {1:15d} | {2:5d} | {3:5d} | {4:7d} | {5:7.2f} |"
+                  .format(nama, nim, uts, uas, tugas, akhir))
+            print("="*73)
+        else:
+            print("Nama {0} Tidak Ditemukan".format(nama))
 
     elif c.lower() == 'l':
         if x.items():
