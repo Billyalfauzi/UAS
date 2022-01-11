@@ -8,13 +8,13 @@ Ujian Akhir semester B.pemrograman
 ### Skrinsut view Nilai
 ![Gambar 3](screenshoot/s2.png)
 
-## Input data yang meminta pengguna memasukkan data
+# Input data yang meminta pengguna memasukkan data
 Jadi ini adalah cara mengambil data dari user,
 karena disini saya mempunyai 4 buah data yang pertama ada string float Integer lalu ada Boolean.
-### Tampilan Input Data
+# Tampilan Input Data
 ![Gambar 4](screenshoot/ss3.png)
 
-#### Main.py berisi program utama atau menu pilihan yang memanggil semua menu yang ada
+# Main.py berisi program utama atau menu pilihan yang memanggil semua menu yang ada
 Ini adalah untuk menyimpan data yang nantinya akan dimasukkan oleh user.
 #### Tampilan Main.py
 ![Gambar 5](screenshoot/ss4.png)
@@ -23,22 +23,8 @@ Dengan menyebutkan kata kunci yang kita buat saat mendeklarasikan program kita d
 mengubah urutan penyalinan argumen. Akan tetapi Anda harus berhati-hati ketika
 menyebutkan kata-kunci, karena tidak boleh ada duplikasi.
 
-##### Untuk menambahkan baris pada tabel. untuk menampilkan karakter bisa ditambahkan tanda (' ') dan untuk menampilkan hasil dari input tidak menggunakan tanda petik. dan untuk perhitungan nilai akhir menggunakan operator aritmatika perkalian dan penjumlahan.
+# Untuk menambahkan baris pada tabel. untuk menampilkan karakter bisa ditambahkan tanda (' ') dan untuk menampilkan hasil dari input tidak menggunakan tanda petik. dan untuk perhitungan nilai akhir menggunakan operator aritmatika perkalian dan penjumlahan.
 
-elif c.lower() == 'c':
-        print("Cari Data[case-sensitive]")
-        nama = input("Masukkan Nama : ")
-        if nama in x.keys():
-            print("="*73)
-            print("|                             Daftar Mahasiswa                          |")
-            print("="*73)
-            print("| Nama            |       NIM       |  UTS  |  UAS  |  Tugas  |  Akhir  |")
-            print("="*73)
-            print("| {0:15s} | {1:15d} | {2:5d} | {3:5d} | {4:7d} | {5:7.2f} |"
-                  .format(nama, nim, uts, uas, tugas, akhir))
-            print("="*73)
-        else:
-            print("Nama {0} Tidak Ditemukan".format(nama))
 
     elif c.lower() == 'l':
         if x.items():
@@ -65,7 +51,7 @@ elif c.lower() == 'c':
     elif c. lower() == 'k':
         break
         
-#### Hasil input
+# Hasil input
 
 while True:
     header="PROGRAM INPUT NILAI MAHASISWA"
